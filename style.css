@@ -105,6 +105,10 @@ button {
     font-size: 32px;
     font-weight: 400;
 }
+.tentativas {
+    margin-top: 15px;
+    font-size: larger;
+}
 
 button:disabled {
     background-color: gray;
